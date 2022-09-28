@@ -1,2 +1,0 @@
-__pycache__/
-top_stories from hackerNews.txt

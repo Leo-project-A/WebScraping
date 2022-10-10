@@ -11,7 +11,7 @@ votes:	613
 link:	https://www.theverge.com/2022/8/12/23303411/zoom-defcon-root-access-privilege-escalation-hack-patrick-wardle
 votes:	599
 
-	< It’s raining PFAS: rainwater is unsafe to drink even in Antarctica and Tibet >
+	< Itï¿½s raining PFAS: rainwater is unsafe to drink even in Antarctica and Tibet >
 link:	https://www.su.se/english/news/it-s-raining-pfas-even-in-antarctica-and-on-the-tibetan-plateau-rainwater-is-unsafe-to-drink-1.620735
 votes:	488
 
@@ -23,7 +23,7 @@ votes:	443
 link:	https://www.insider.com/study-confirms-link-between-forever-chemicals-and-liver-cancer-risk-2022-8
 votes:	413
 
-	< Goat Rental – Hire Goats >
+	< Goat Rental ï¿½ Hire Goats >
 link:	https://hiregoats.com/
 votes:	411
 
@@ -39,7 +39,7 @@ votes:	386
 link:	https://knowledge.autodesk.com/support/fusion-360/learn-explore/caas/sfdcarticles/sfdcarticles/Updates-to-the-Fusion-360-Simulation-Extension.html
 votes:	361
 
-	< “Logistics”, an 857-hour movie, tracks a pedometer from shop back to factory >
+	< ï¿½Logisticsï¿½, an 857-hour movie, tracks a pedometer from shop back to factory >
 link:	https://readpassage.com/i-watched-an-857-hour-movie-to-encounter-capitalisms-extremes/
 votes:	308
 
@@ -95,7 +95,7 @@ votes:	210
 link:	https://www.codeofhonor.com/blog/tough-times-on-the-road-to-starcraft
 votes:	209
 
-	< Hollywood’s visual effects crisis >
+	< Hollywoodï¿½s visual effects crisis >
 link:	https://defector.com/inside-hollywoods-visual-effects-crisis/
 votes:	200
 
@@ -131,7 +131,7 @@ votes:	172
 link:	https://www.motortrend.com/news/evs-more-efficient-than-internal-combustion-engines/
 votes:	163
 
-	< Operating well – what I learned at Stripe >
+	< Operating well ï¿½ what I learned at Stripe >
 link:	https://samgerstenzang.substack.com/p/operating-well-what-i-learned-at
 votes:	163
 
@@ -151,7 +151,7 @@ votes:	153
 link:	https://sites.math.washington.edu/~billey/advice/timely.fashion.pdf
 votes:	143
 
-	< Muxfs – a mirroring, checksumming, and self-healing filesystem layer for OpenBSD >
+	< Muxfs ï¿½ a mirroring, checksumming, and self-healing filesystem layer for OpenBSD >
 link:	https://sdadams.org/blog/introducing-muxfs/
 votes:	139
 
